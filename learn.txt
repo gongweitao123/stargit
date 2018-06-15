@@ -1,8 +1,2 @@
 hello world
-<<<<<<< HEAD
-write
 
-=======
-read
-read too
->>>>>>> featurel
